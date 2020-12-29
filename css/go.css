@@ -1,5 +1,4 @@
 #myDIV {display: none;}
 #app:before {display: none;}
 #drawer, #app-navigation {display: none;}
-.PostStream-item[0] {display: none;} 
-.DiscussionHero[0] {display: none;} 
+.DiscussionHero {display: none;} 
