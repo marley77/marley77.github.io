@@ -1,11 +1,15 @@
 #myDIV {display: none;}
-#app:before {display: none;}
-.PostStream-item:first-of-type {display: none;}
-#drawer, #app-navigation {display: none;}
-.DiscussionHero {display: none;} 
 #avi {display: none;}
+.PostStream-item:first-of-type {display: none;}
 
-.PostStreamScrubber {display: none;}
+.DiscussionHero{display:none}
+
+
+
+
+.App{padding-top:0;min-height:0;overflow:hidden}
+
+.App:before{display:none}
 
 /*
 .container{width:auto;padding:0 20px}
@@ -14,15 +18,13 @@
   .container{padding:0}
   }
 
-.App{padding-top:0;min-height:0;overflow:hidden}
 
-.App:before{display:none}
 
 .App-content{border-top:0;min-height:0}
 
 .Composer{margin-left:0 !important;margin-right:0 !important}
 
-.DiscussionHero{display:none}
+
 
 .DiscussionPage-nav{width:auto;float:none}
 
