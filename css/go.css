@@ -5,7 +5,7 @@
 .DiscussionHero{display:none}
 
 
-#app:before {display: none;}
+.App:before{display:none}
 
  @media (max-width: 767px){
     .DiscussionPage-nav>ul{height:46px}
