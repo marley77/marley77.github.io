@@ -3,8 +3,11 @@
 .PostStream-item:first-of-type {display: none;}
 #drawer, #app-navigation {display: none;}
 .DiscussionHero {display: none;} 
-li.item-scrubber {display: none;}
+#avi {display: none;}
 
+.PostStreamScrubber {display: none;}
+
+/*
 .container{width:auto;padding:0 20px}
 
 @media (max-width: 767px){
@@ -88,3 +91,4 @@ li.item-scrubber {display: none;}
       .Dropdown .Dropdown-menu.Dropdown-menu--right{left:auto !important;right:0 !important}
       .Composer:not(.minimized){height:400px !important}
 }
+*/
