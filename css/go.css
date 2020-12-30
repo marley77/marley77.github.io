@@ -3,7 +3,7 @@
 .PostStream-item:first-of-type {display: none;}
 #drawer, #app-navigation {display: none;}
 .DiscussionHero {display: none;} 
-
+li.item-scrubber {display: none;}
 
 .container{width:auto;padding:0 20px}
 
