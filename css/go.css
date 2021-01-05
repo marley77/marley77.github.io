@@ -9,6 +9,8 @@
 
 #app {padding-top: 0px !important;}
 
+#app-navigation {display:none;}
+
 /*
 @media(max-width: 767px){
 .DiscussionPage-nav>ul>li.item-controls, .DiscussionPage-nav>ul>li.item-scrubber {
