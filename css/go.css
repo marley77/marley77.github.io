@@ -5,6 +5,8 @@
 .DiscussionHero{display:none}
 .DiscussionPage-nav>ul>li.item-scrubber {    display: none;}
 
+#header {display:none;}
+
 /*
 @media(max-width: 767px){
 .DiscussionPage-nav>ul>li.item-controls, .DiscussionPage-nav>ul>li.item-scrubber {
