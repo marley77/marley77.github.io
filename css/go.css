@@ -3,6 +3,7 @@
 .PostStream-item:first-of-type {display: none;}
 
 .DiscussionHero{display:none}
+.DiscussionPage-nav>ul>li.item-scrubber {    display: none;}
 
 /*
 @media(max-width: 767px){
