@@ -1,21 +1,22 @@
+/* Sticky composer to top */
 .App-composer {
     transition: none;
     position: sticky;
     top: 0;
 }
 
+/* Hide nav-bar and first post */
 #myDIV {display: none;}
 #avi {display: none;}
 .PostStream-item:first-of-type {display: none;}
 
+/* Hide header image and scrollbar */
 .DiscussionHero{display:none}
-.DiscussionPage-nav>ul>li.item-scrubber {    display: none;}
-
+.DiscussionPage-nav>ul>li.item-scrubber {display: none;}
 #header {display:none;}
-
 #app {padding-top: 0px !important;}
-
 #app-navigation {display:none;}
+
 
 /* OPTIONAL FURTHER ADJUSTMENTS
 
@@ -29,9 +30,7 @@
 
 //.Dropdown--split {display:none}
 
-
 //.App:before{display:none}
-
 
  @media (max-width: 767px){
     .DiscussionPage-nav>ul{height:46px}
